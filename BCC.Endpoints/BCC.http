@@ -1,0 +1,6 @@
+@BCC_HostAddress = http://localhost:5055
+
+GET {{BCC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
